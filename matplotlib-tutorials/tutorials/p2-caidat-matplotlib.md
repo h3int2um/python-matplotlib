@@ -21,13 +21,13 @@ Thời gian: Ngày 23 tháng 11 năm 2016
 	
 			$ sudo apt-get install python-pip
 			
-		![](https://raw.githubusercontent.com/h3int2um/python-matplotlib/master/matplotlib-tutorials/images/caidat-python-pip-ubuntu.png)
+		![](https://raw.githubusercontent.com/h3int2um/python-matplotlib/master/matplotlib-tutorials/images/setup-matplotlib/caidat-matplotlib-ubuntu.png)
 
 	+ Tiếp tục gõ lệnh sau trong cửa sổ Terminal để cài đặt `Matplotlib`:
 	
 			$ sudo pip install matplotlib
 			
-		![](https://raw.githubusercontent.com/h3int2um/python-matplotlib/master/matplotlib-tutorials/images/caidat-matplotlib-ubuntu.png)
+		![](https://raw.githubusercontent.com/h3int2um/python-matplotlib/master/matplotlib-tutorials/images/setup-matplotlib/caidat-python-pip-ubuntu.png)
 		
 	+ Kiểm tra cài đặt: gõ các lệnh sau, nếu không báo lỗi nghĩa là cài đặt thành công. 
 	Trong trường hợp này phiên bản cài đặt là `1.5.3`.
@@ -42,4 +42,4 @@ Thời gian: Ngày 23 tháng 11 năm 2016
 			
 			'1.5.3'
 		
-		![](https://raw.githubusercontent.com/h3int2um/python-matplotlib/master/matplotlib-tutorials/images/kiemtra-caidat-matplotlib.png)
+		![](https://raw.githubusercontent.com/h3int2um/python-matplotlib/master/matplotlib-tutorials/images/setup-matplotlib/kiemtra-caidat-matplotlib.png)
