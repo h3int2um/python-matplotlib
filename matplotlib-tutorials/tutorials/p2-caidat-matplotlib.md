@@ -38,8 +38,6 @@ Thời gian: Ngày 23 tháng 11 năm 2016
 			
 			>>> matplotlib.__version__
 			
-			>>> OpenGL.__version__
-			
 			'1.5.3'
 		
 		![](https://raw.githubusercontent.com/h3int2um/python-matplotlib/master/matplotlib-tutorials/images/setup-matplotlib/kiemtra-caidat-matplotlib.png)
